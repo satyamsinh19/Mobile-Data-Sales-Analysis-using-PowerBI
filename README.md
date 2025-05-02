@@ -1,6 +1,6 @@
-<h1 align="center">📱 Mobile Sales Data Analysis using Power BI</h1>
+<h1 align="center">📱 Mobile Sales Data Analysis </h1>
 
-<h2 align="center">🎯 Power BI Project – Mobile Sales Dashboard</h2>
+<h2 align="center">🎯 Power BI Project – Mobile Sales Data Analysis</h2>
 
 <h3>🗂️ Dataset Used</h3>  
 **Mobile Sales.xlsx**
@@ -49,11 +49,11 @@ The dashboard was created as part of the **Power BI course by Satish Dhawale**, 
 <h2>📂 Repository Structure</h2>
 
 | File                         | Description                          |
-|-----------------------------|--------------------------------------|
-| `Mobile Sales Analysis.pdf` | Final dashboard exported as PDF      |
-| `Mobile Sales.pbix`         | Power BI report file                 |
-| `Mobile Sales.xlsx`         | Raw dataset used for the dashboard   |
-| `README.md`                 | Project documentation (this file)    |
+|----------------------------- |--------------------------------------|
+| `Mobile Sales Analysis.pdf`  | Final dashboard exported as PDF      |
+| `Mobile Sales Analysis.pbix` | Power BI report file                 |
+| `Mobile Sales.xlsx`          | Raw dataset used for the dashboard   |
+| `README.md`                  | Project documentation (this file)    |
 
 ---
 
