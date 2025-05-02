@@ -1,17 +1,16 @@
-# 📱 Mobile Sales Data Analysis
+<h1 align="center">📱 Mobile Sales Data Analysis using Power BI</h1>
 
-## 🎯 Project Title  
-**Power BI Project – Mobile Sales Data Analysis**
+<h2 align="center">🎯 Power BI Project – Mobile Sales Dashboard</h2>
 
-## 🗂️ Dataset Used  
+<h3>🗂️ Dataset Used</h3>  
 **Mobile Sales.xlsx**
 
-## 🎓 Focus  
+<h3>🎓 Focus</h3>  
 End-to-end business intelligence using Power BI – data modeling, DAX, and interactive dashboards
 
 ---
 
-## 🧾 Project Overview  
+<h2>🧾 Project Overview</h2>
 
 This project simulates a real-world business scenario of a **Mobile Sales company** operating across multiple cities in India. It includes a deep analysis of sales performance, customer behavior, brand comparison, and transaction trends using a structured dataset.
 
@@ -19,16 +18,16 @@ The dashboard was created as part of the **Power BI course by Satish Dhawale**, 
 
 ---
 
-## 🗃️ Key Metrics Tracked  
+<h2>🗃️ Key Metrics Tracked</h2>
 
 - **Total Sales**: ₹769 Million  
 - **Total Quantity Sold**: 19,000+ units  
 - **Total Transactions**: 4,000+  
-- **Average Price per Unit**: ₹40,000  
+- **Average Price per Unit**: ₹40,000
 
 ---
 
-## 📈 Key Insights from Analysis  
+<h2>📈 Key Insights from Analysis</h2>
 
 - 📍 **Top Cities by Sales**: Delhi, Mumbai, and Ranchi emerged as the highest revenue-generating cities, indicating urban sales dominance.  
 - 📆 **Monthly Sales Trends**: March and June showed sales peaks, hinting at possible promotional periods or seasonal demand.  
@@ -38,7 +37,7 @@ The dashboard was created as part of the **Power BI course by Satish Dhawale**, 
 
 ---
 
-## 🛠 Tools & Technologies  
+<h2>🛠 Tools & Technologies</h2>
 
 - 💻 **Microsoft Power BI Desktop**  
 - 📊 **DAX**, **Data Modeling**, **Filters**, **Slicers**  
@@ -47,18 +46,18 @@ The dashboard was created as part of the **Power BI course by Satish Dhawale**, 
 
 ---
 
-## 📂 Repository Structure  
+<h2>📂 Repository Structure</h2>
 
 | File                         | Description                          |
 |-----------------------------|--------------------------------------|
 | `Mobile Sales Analysis.pdf` | Final dashboard exported as PDF      |
-| `Mobile Sales Analysis.pbix`         | Power BI report file                 |
+| `Mobile Sales.pbix`         | Power BI report file                 |
 | `Mobile Sales.xlsx`         | Raw dataset used for the dashboard   |
 | `README.md`                 | Project documentation (this file)    |
 
 ---
 
-## 🎓 Learning Highlights  
+<h2>🎓 Learning Highlights</h2>
 
 - Mastered Power BI data modeling and visual storytelling  
 - Created dynamic dashboards with KPIs, filters, and interactive charts  
@@ -67,7 +66,7 @@ The dashboard was created as part of the **Power BI course by Satish Dhawale**, 
 
 ---
 
-## 🔗 Connect with Me  
+<h2>🔗 Connect with Me</h2>
 
 👤 **Satyam Kumar**  
 🌐 [LinkedIn](https://www.linkedin.com/in/satyam-kumar-5a229222b)  
