@@ -1,4 +1,4 @@
-# 📱 Mobile Sales Data Analysis using Power BI
+# 📱 Mobile Sales Data Analysis
 
 ## 🎯 Project Title  
 **Power BI Project – Mobile Sales Data Analysis**
@@ -52,7 +52,7 @@ The dashboard was created as part of the **Power BI course by Satish Dhawale**, 
 | File                         | Description                          |
 |-----------------------------|--------------------------------------|
 | `Mobile Sales Analysis.pdf` | Final dashboard exported as PDF      |
-| `Mobile Sales.pbix`         | Power BI report file                 |
+| `Mobile Sales Analysis.pbix`         | Power BI report file                 |
 | `Mobile Sales.xlsx`         | Raw dataset used for the dashboard   |
 | `README.md`                 | Project documentation (this file)    |
 
