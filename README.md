@@ -1,6 +1,5 @@
 <h1 align="center">📱 Mobile Sales Data Analysis </h1>
-
-<h2 align="center">🎯 Power BI Project – Mobile Sales Data Analysis</h2>
+This project presents a comprehensive analysis of mobile sales performance, aimed at identifying both the positive drivers and underlying challenges affecting overall sales outcomes. By leveraging interactive visualizations and key performance indicators, the analysis facilitates data-driven decision-making to enhance sales strategies, improve product quality, and elevate customer service standards.
 
 <h3>🗂️ Dataset Used</h3>  
 **Mobile Sales.xlsx**
