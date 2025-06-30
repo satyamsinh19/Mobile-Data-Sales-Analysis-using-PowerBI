@@ -70,3 +70,6 @@ The dashboard was created as part of the **Power BI course by Satish Dhawale**, 
 👤 **Satyam Kumar**  
 🌐 [LinkedIn](https://www.linkedin.com/in/satyam-kumar-5a229222b)  
 📬 **satyamkv123@gmail.com**
+
+**Note**
+This is a guided project.
